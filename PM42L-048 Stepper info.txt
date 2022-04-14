@@ -1,0 +1,7 @@
+Steps per Revolution: 50
+
+WIRING
+Out1: white
+Out2: grey
+Out3: blue
+Out4: yellow

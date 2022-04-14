@@ -1,0 +1,1 @@
+Openssl x509 -in mycert2.crt -text -noout
